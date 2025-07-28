@@ -37,10 +37,11 @@ The repository is organized into three main folders:
 
 ## How to Use
 
-1. **Start at the beginning**: Begin with the first module in `junior_level/1_foundations_http`. Each module builds on the previous.
+1. **Start at the beginning**: Begin with the first module in `junior_level/1_foundations_http`. Each module builds on the previous. The difficult will increase in small steps, making the transition from one module to another smoother.
 2. **Follow the rubrics**: Each module's `readme.md` provides clear steps and acceptance criteria.
 3. **Progress at your own pace**: Move to the next module once you meet the acceptance criteria.
 4. **Experiment and extend**: Try alternative libraries, add features, or refactor for best practices.
+5. **Explore optional advanced introductions**: Subsections, all that are labeled with letters 'a)'... (e.g., `a_api_design_versioning`) are basic introductions to advanced topics. These are optional for the junior level, but completing them will make later steps at mid_level or senior_level much easier and smoother.
 
 ## Who Is This For?
 
