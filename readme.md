@@ -12,24 +12,24 @@ The repository is organized into three main folders:
 
 - **junior_level/**: Foundational to intermediate backend skills, with 10 modules:
   1. **Foundations & HTTP**: Learn the basics of Node.js servers, HTTP, and Express.
-    a) **API Design & Versioning**: Best practices for RESTful APIs, versioning strategies, and backward compatibility.
-    b) **Rate Limiting & Throttling**: Protecting APIs from abuse and ensuring fair usage.
+    1. **API Design & Versioning**: Best practices for RESTful APIs, versioning strategies, and backward compatibility.
+    2. **Rate Limiting & Throttling**: Protecting APIs from abuse and ensuring fair usage.
   2. **In-Memory CRUD & Pagination**: Build CRUD APIs and pagination logic using in-memory stores.
   3. **Persistence (SQLite/PostgreSQL, Knex/Sequelize)**: Transition to real databases and ORMs.
-    a) **Data Modeling & Validation**: Schema design, normalization, and advanced validation techniques.
+    1. **Data Modeling & Validation**: Schema design, normalization, and advanced validation techniques.
   4. **Authentication & Authorization**: Implement secure user registration, login, and access control.
-    a) **Advanced Security Fundamentals**: Go beyond the OWASP Top 10 to master secure coding practices, threat modeling, vulnerability scanning, and proactive risk mitigation strategies for modern backend applications.
-    b) **Comprehensive Session Management**: Implement robust session handling using cookies, tokens, expiration policies, refresh mechanisms, multi-factor authentication, and advanced techniques to prevent session hijacking, fixation, and other sophisticated attacks.
+    1. **Advanced Security Fundamentals**: Go beyond the OWASP Top 10 to master secure coding practices, threat modeling, vulnerability scanning, and proactive risk mitigation strategies for modern backend applications.
+    2. **Comprehensive Session Management**: Implement robust session handling using cookies, tokens, expiration policies, refresh mechanisms, multi-factor authentication, and advanced techniques to prevent session hijacking, fixation, and other sophisticated attacks.
   5. **Files, Validation, Documentation**: Handle file uploads, data validation, and API documentation.
-    a) **Documentation & Developer Experience**: Writing clear API docs, onboarding guides, and code comments.
+    1. **Documentation & Developer Experience**: Writing clear API docs, onboarding guides, and code comments.
   6. **Internationalization (i18n) & Localization (l10n)**: Making apps accessible to global users.
   7. **Integrations, Jobs, Caching**: Work with third-party APIs, background jobs, and caching strategies.
   8. **Observability, Testing, Tooling**: Add logging, metrics, tracing, and automated testing.
-    a) **Advanced Error Handling & Resilience**: Master robust error management by implementing centralized error handling, designing systems for graceful degradation, and building resilient APIs with retry logic, circuit breakers, and fallback mechanisms to ensure reliability under failure conditions.
-    b) **Monitoring & Alerting**: Develop production-grade observability by integrating advanced monitoring tools, setting up automated alerts for critical errors, downtime, and performance anomalies, and leveraging dashboards to proactively detect and respond to issues before they impact users.
+    1. **Advanced Error Handling & Resilience**: Master robust error management by implementing centralized error handling, designing systems for graceful degradation, and building resilient APIs with retry logic, circuit breakers, and fallback mechanisms to ensure reliability under failure conditions.
+    2. **Monitoring & Alerting**: Develop production-grade observability by integrating advanced monitoring tools, setting up automated alerts for critical errors, downtime, and performance anomalies, and leveraging dashboards to proactively detect and respond to issues before they impact users.
   9. **Deployment, Security, Performance**: Containerize apps, orchestrate with Docker Compose, and harden security.
-    a) **Advanced Environment Management & Configuration**: Mastering environment variables, hierarchical config systems, secrets rotation, and secure configuration for multi-stage deployments.
-    b) **Robust Continuous Integration/Continuous Deployment (CI/CD)**: Designing resilient CI/CD pipelines with automated testing, security scanning (e.g., Snyk), code quality checks (e.g., ESLint, Prettier, SonarQube), performance scans, dependency audits, and integration of tools for monitoring and reporting. Includes strategies for zero-downtime deployments, rollback mechanisms, and orchestrating multi-environment releases.
+    1. **Advanced Environment Management & Configuration**: Mastering environment variables, hierarchical config systems, secrets rotation, and secure configuration for multi-stage deployments.
+    2. **Robust Continuous Integration/Continuous Deployment (CI/CD)**: Designing resilient CI/CD pipelines with automated testing, security scanning (e.g., Snyk), code quality checks (e.g., ESLint, Prettier, SonarQube), performance scans, dependency audits, and integration of tools for monitoring and reporting. Includes strategies for zero-downtime deployments, rollback mechanisms, and orchestrating multi-environment releases.
   10. **Working with Legacy Systems**: Strategies for integrating or refactoring legacy codebases.
 
 - **mid_level/**: Reserved for more advanced backend topics and exercises (to be expanded).
