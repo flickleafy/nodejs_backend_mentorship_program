@@ -64,6 +64,67 @@ Contributions are welcome! Feel free to submit improvements, new modules, or adv
 
 If you'd like to support this mentorship program financially, your generosity is truly appreciated! Every little bit helps keep the project growing and accessible for learners everywhere. No pressure—just a heartfelt thank you for considering it. 😊
 
+## 📄 License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** for **personal and non-commercial use only**.
+
+### Personal Use
+
+For personal, educational, and non-commercial purposes, this project is freely available under the GPL-3.0 license:
+
+✅ **You Can**:
+
+- Use these materials for personal projects and learning
+- Modify and adapt the materials for non-commercial purposes
+- Contribute improvements back to the project
+
+⚠️ **You Must**:
+
+- Disclose source and include license notices
+- Share modifications under the same GPL-3.0 license
+- Clearly state any significant changes made to original materials
+
+❌ **You Cannot**:
+
+- Sublicense under different terms
+- Hold authors liable for damages
+
+### Commercial Use
+
+**Commercial use of this software requires a separate commercial license.**
+
+Commercial use includes, but is not limited to:
+
+- Integration into commercial products or services
+- Use within organizations generating revenue
+- Deployment in enterprise or production environments for business purposes
+- Distribution as part of commercial offerings
+
+For commercial licensing inquiries, please contact inbox.
+
+We offer flexible commercial licensing options tailored to your organization's needs, including support and maintenance agreements.
+
+### Full License Text
+
+The GPL-3.0 license terms for non-commercial use can be found in the [LICENSE](./LICENSE) file.
+
+```text
+Copyright (C) 2022-2026 flickleafy
+
+This program is free software for personal use: you can redistribute it 
+and/or modify it under the terms of the GNU General Public License as 
+published by the Free Software Foundation, either version 3 of the License, 
+or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+Commercial use requires a separate commercial license. Please contact
+the copyright holder for commercial licensing terms.
+```
+
 ---
 
 **Ready to level up your Node.js backend skills? Start with `junior_level/1_foundations_http` and build your way up!**
